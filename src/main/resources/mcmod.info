@@ -1,0 +1,16 @@
+[
+  {
+    "modid": "modularmachineadapters",
+    "name": "ModularMachineryAdapters",
+    "description": "injection point type '%s'",
+    "version": "${version}",
+    "mcversion": "${mcversion}",
+    "url": "",
+    "updateUrl": "",
+    "authorList": [],
+    "credits": "",
+    "logoFile": "",
+    "screenshots": [],
+    "dependencies": []
+  }
+]
