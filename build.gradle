@@ -60,7 +60,7 @@ processResources {
 }
 
 String getVersion() {
-    String version = "${base_version}"
+    String version = "${modVersion}"
     String branch = project.hasProperty("branch") ? project.branch : ""
 
     if(branch != "") {
